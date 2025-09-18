@@ -6,7 +6,7 @@
 class FishRecognitionApp {
     constructor() {
         this.apiBase = '/api/v1';
-        this.wsUrl = `ws://${window.location.host}/ws/recognition/`;
+        this.wsUrl = `wss://${window.location.host}/ws/recognition/`;
         this.ws = null;
         this.videoStream = null;
         this.isProcessing = false;
