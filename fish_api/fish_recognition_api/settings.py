@@ -123,7 +123,7 @@ CHANNEL_LAYERS = {
     'default': {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
         'CONFIG': {
-            "hosts": [('127.0.0.1', 6379)],
+            "hosts": [('127.0.0.1', os.getenv('REDIS_PORT', 36379))],
         },
     },
 }
@@ -134,6 +134,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:8000",
     "http://127.0.0.1:8000",
+    "https://smart-mancing.hellodigi.id"
 ]
 
 CORS_ALLOW_ALL_ORIGINS = DEBUG
