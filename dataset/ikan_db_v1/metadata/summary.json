@@ -1,0 +1,3597 @@
+{
+  "total_candidates": 2317,
+  "downloaded": 874,
+  "failed_downloads": 1,
+  "skipped_rows": 1442,
+  "existing_label_count": 0,
+  "new_label_count": 513,
+  "new_labels": {
+    "0": "Hiu tikus",
+    "1": "Hiu sutra",
+    "2": "Hiu sirip putih",
+    "3": "Hiu kepala martil bergerigi",
+    "4": "Wahoo",
+    "5": "Hiu tokek",
+    "6": "Tongkol lisong",
+    "7": "Tongkol krai",
+    "8": "Hiu sonteng",
+    "9": "Hiu lanjaman",
+    "10": "Hiu tembaga",
+    "11": "Cucut lanjam",
+    "12": "Hiu banteng",
+    "13": "Hiu sirip hitam",
+    "14": "Hiu karang sirip hitam",
+    "15": "Hiu teteri",
+    "16": "Hiu merak bulu",
+    "17": "Hiu botol longnose velvet dogfish",
+    "18": "Hiu botol danten",
+    "19": "Hiu botol leafscale gulper shark",
+    "20": "Hiu bongol",
+    "21": "Lemadang",
+    "22": "Tongkol komo",
+    "23": "Hiu macan",
+    "24": "Makerel ular",
+    "25": "Tuna gigi anjing",
+    "26": "Hiu lepang",
+    "27": "Hiu kacang",
+    "28": "Hiu kapukan",
+    "29": "Layaran",
+    "30": "Hiu mako",
+    "31": "Hiu mako sirip panjang",
+    "32": "Cakalang",
+    "33": "Opah",
+    "34": "Setuhuk biru",
+    "35": "Hiu mulut raksasa",
+    "36": "Hiu bisu",
+    "37": "Hiu berbintik",
+    "38": "Hiu biru",
+    "39": "Hiu buaya",
+    "40": "Hiu pilus",
+    "41": "Kenyar",
+    "42": "Slengseng",
+    "43": "Tenggiri",
+    "44": "Talang-talang",
+    "45": "Tenggiri papan",
+    "46": "Hiu kejen",
+    "47": "Tenggiri garis",
+    "48": "Hiu taji",
+    "49": "Hiu cucut botol",
+    "50": "Todak",
+    "51": "Albakora",
+    "52": "Tuna sirip kuning",
+    "53": "Terbang",
+    "54": "Tuna sirip biru selatan",
+    "55": "Tuna mata besar",
+    "56": "Tongkol abu-abu",
+    "57": "Hiu tanduk putih",
+    "58": "Ikan pedang",
+    "59": "Setuhuk hitam",
+    "60": "Gindara",
+    "61": "Tanda-tanda/ badur kuning",
+    "62": "Buntet",
+    "63": "Marlin loreng",
+    "64": "Siro",
+    "65": "Selanget",
+    "66": "Cipa-cipa",
+    "67": "Selar hijau",
+    "68": "Bawal pomfret",
+    "69": "Killi mata belo",
+    "70": "Layang anggur",
+    "71": "Layang",
+    "72": "Teri merah",
+    "73": "Senangin",
+    "74": "Teri nasi",
+    "75": "Tongkol hitam",
+    "76": "Julung-julung",
+    "77": "Sarden",
+    "78": "Teri samoan",
+    "79": "Lemah",
+    "80": "Ikan setan",
+    "81": "Bambangan",
+    "82": "Kakap bakau",
+    "83": "Terbang sirip layar",
+    "84": "Sebelah mata kanan",
+    "85": "Sebelah mata kiri",
+    "86": "Silver driftfish",
+    "87": "Kembung perempuan",
+    "88": "Tembang",
+    "89": "Teri hairfin",
+    "90": "Teri ambon",
+    "91": "Teri indian",
+    "92": "Teri gepeng",
+    "93": "Terubuk",
+    "94": "Teri daun bambu",
+    "95": "Ambangan",
+    "96": "Kemprit",
+    "97": "Kakap sunrise perch",
+    "98": "Tanda-tanda batu/badur batu",
+    "99": "Baronang",
+    "100": "Ikan naga",
+    "101": "Cendro",
+    "102": "Selar bulat",
+    "103": "Selar ubur-ubur",
+    "104": "Selar kue",
+    "105": "Layang lidi",
+    "106": "Layang biru",
+    "107": "Layang benggol",
+    "108": "Salem",
+    "109": "Ande ande",
+    "110": "Julung-julung mulut merah",
+    "111": "Kakap batu",
+    "112": "Kakap merah bakau",
+    "113": "Bulan-bulan",
+    "114": "Kembung lelaki",
+    "115": "Lemuru",
+    "116": "Hiu gergaji",
+    "117": "Talang-talang totol",
+    "118": "Selar",
+    "119": "Selar bentong",
+    "120": "Baronang susu",
+    "121": "Baronang tompel",
+    "122": "Baronang angin",
+    "123": "Sangko",
+    "124": "Bangkok",
+    "125": "Kambing-kambing",
+    "126": "Pari burung",
+    "127": "Gulamah",
+    "128": "Gumalah",
+    "129": "Hiu aron",
+    "130": "Galuh putih",
+    "131": "Galuh indian",
+    "132": "Mata besar",
+    "133": "Sebelah bundar",
+    "134": "Kuwe",
+    "135": "Golok-golok",
+    "136": "Bayeman anchor",
+    "137": "Bayeman blackspot",
+    "138": "Belayaran",
+    "139": "Galuh",
+    "140": "Galuh setan",
+    "141": "Lidah lumpur",
+    "142": "Sebelah",
+    "143": "Gurnard starry flying",
+    "144": "Pare kembang",
+    "145": "Pari lemer",
+    "146": "Gajih",
+    "147": "Tempel",
+    "148": "Petek",
+    "149": "Anggoli",
+    "150": "Petek jones",
+    "151": "Bawal laut dalam",
+    "152": "Senangin splendid",
+    "153": "Senangin yellowthread",
+    "154": "Peperek bondolan",
+    "155": "Kapas-kapas",
+    "156": "Kumeje batu yellowsnout large-eye",
+    "157": "Pari kelelawar",
+    "158": "Kumeje batu blue-spotted large-eye",
+    "159": "Hiu aeuy",
+    "160": "Flathead",
+    "161": "Pelo",
+    "162": "Layur",
+    "163": "Lencam emperor",
+    "164": "Emperor pinkear",
+    "165": "Kakap merah/kakap bongkok",
+    "166": "Kakap moluccan",
+    "167": "Jarang koto/kuniran",
+    "168": "Pilok",
+    "169": "Lepu karang",
+    "170": "Rangginan doubletooth",
+    "171": "Kurisi balinese threadfin",
+    "172": "Kurisi japanese threadfin",
+    "173": "Kurisi",
+    "174": "Kurisi yellow-tipped threadfin",
+    "175": "Galuh botol biru",
+    "176": "Gelik",
+    "177": "Gobi scalynape tentacle",
+    "178": "Bawal putih",
+    "179": "Biji nangka karang",
+    "180": "Tongtong",
+    "181": "Gobi taileye",
+    "182": "Pari kelapa",
+    "183": "Kaci-kaci raja bau",
+    "184": "Kerisi",
+    "185": "Kaci-kaci",
+    "186": "Kaci-kaci hitam",
+    "187": "Rajanau",
+    "188": "Lele laut",
+    "189": "Gerot-gerot",
+    "190": "Lepu ruddy",
+    "191": "Kurisi ungu",
+    "192": "Swanggi",
+    "193": "Serinding tembakau",
+    "194": "Pari gergaji",
+    "195": "Galuh dusky",
+    "196": "Galuh freckled",
+    "197": "Mata sebelah",
+    "198": "Terabis bulat",
+    "199": "Remora",
+    "200": "Pari kekeh",
+    "201": "Aesi",
+    "202": "Beloso",
+    "203": "Lepu batu",
+    "204": "Lepu angin",
+    "205": "Lepu poss's",
+    "206": "Lidah ovate",
+    "207": "Alu-alu",
+    "208": "Barakuda",
+    "209": "Kakap china",
+    "210": "Pari totol biru",
+    "211": "Bawal lonjong",
+    "212": "Bawal sabit",
+    "213": "Penginang",
+    "214": "Ayam-ayam manyspot",
+    "215": "Sokang",
+    "216": "Cupang-cupang",
+    "217": "Jenggot",
+    "218": "Kuniran empat strip",
+    "219": "Biji nangka",
+    "220": "Lepo merah",
+    "221": "Lidah zebra",
+    "222": "Layur merah",
+    "223": "Japanese rubyfish",
+    "224": "Ekor kuning",
+    "225": "Kerong-kerong",
+    "226": "Kuniran",
+    "227": "Gobi isthmus",
+    "228": "Teri merek",
+    "229": "Petek striped",
+    "230": "Buntal compressed",
+    "231": "Ketang-ketang",
+    "232": "Petek papua",
+    "233": "Petek splendid",
+    "234": "Petek ovoid",
+    "235": "Acang-acang bombay",
+    "236": "Pari duri",
+    "237": "Buntal half-smooth golden",
+    "238": "Kakap putih",
+    "239": "Petek berber",
+    "240": "Peperek topang",
+    "241": "Kakap mailah/ketambak",
+    "242": "Bambangan/kakap merah",
+    "243": "Pucuk nipah",
+    "244": "Kurisi fivelined threadfin",
+    "245": "Lepu orange-banded",
+    "246": "Manyung roundsnot",
+    "247": "Manyung besar",
+    "248": "Patin longsnouted",
+    "249": "Manyung hitam",
+    "250": "Manyung utik",
+    "251": "Gobi sleepy",
+    "252": "Pasir-pasir",
+    "253": "Lepu barong",
+    "254": "Petek pugnose",
+    "255": "Kerong-kerong padi",
+    "256": "Kuwe bintik",
+    "257": "Moa",
+    "258": "Kalong",
+    "259": "Katombal",
+    "260": "Kumeje batu yellowband monocle",
+    "261": "Kakap laut merah",
+    "262": "Basslet pearl-spotted fairy",
+    "263": "Buntal karang",
+    "264": "Lembain",
+    "265": "Napoleon maori",
+    "266": "Angel imperator",
+    "267": "Napoleon",
+    "268": "Butana",
+    "269": "Kerapu lumpur hitam",
+    "270": "Kuwe rambut",
+    "271": "Ayam-ayam unicorn",
+    "272": "Betok batunas",
+    "273": "Kerapu totol merah",
+    "274": "Kurisi perak",
+    "275": "Guntur",
+    "276": "Antoan",
+    "277": "Ayam-ayam rough",
+    "278": "Ayam-ayam wirenet",
+    "279": "Kuwe mata besar",
+    "280": "Kuwe sirip kuning",
+    "281": "Kuwe macan",
+    "282": "Kuwe lilin",
+    "283": "Kuwe caudal hitam",
+    "284": "Kuwe bibir tebal",
+    "285": "Kuwe pectoralf sabit",
+    "286": "Selar malam",
+    "287": "Kuwe kaudal hitam",
+    "288": "Kerapu batu",
+    "289": "Kerapu golden",
+    "290": "Kerapu hitam strip biru",
+    "291": "Kerapu macan",
+    "292": "Kerapu harlequin",
+    "293": "Kerapu merah palsu",
+    "294": "Kerapu tomat",
+    "295": "Kakatua",
+    "296": "Mamar",
+    "297": "Betok putih strip",
+    "298": "Kerapu karet",
+    "299": "Kerapu lumpur",
+    "300": "Kerapu snubnose",
+    "301": "Kerapu minyak",
+    "302": "Kerapu koral",
+    "303": "Krapu abu-abu noda putih",
+    "304": "Kerapu batik",
+    "305": "Kerapu tutul",
+    "306": "Kerapu harimau",
+    "307": "Kerapu barong putih",
+    "308": "Kerapu totol",
+    "309": "Kerapu sunu",
+    "310": "Mala",
+    "311": "Kakap ilak",
+    "312": "Buntal",
+    "313": "Matahari",
+    "314": "Betok laut",
+    "315": "Kakap ekor kuning",
+    "316": "Kakap jarang gigi",
+    "317": "Kakap indian",
+    "318": "Kakap papua",
+    "319": "Gaga",
+    "320": "Ayam-ayam fanbelly",
+    "321": "Jenggot merah",
+    "322": "Botana",
+    "323": "Selar pilot",
+    "324": "Jenggot doublebar",
+    "325": "Ayam-ayam hairfin",
+    "326": "Paralolosi",
+    "327": "Kepe-kepe",
+    "328": "Jangki",
+    "329": "Kumeje batu",
+    "330": "Pinjalo",
+    "331": "Kerapu sunu bintik kasar",
+    "332": "Kerapu raja sunu",
+    "333": "Ayam-ayam pot-bellied",
+    "334": "Kerapu ladah",
+    "335": "Kapasan ekor kuning",
+    "336": "Kakap anggoli",
+    "337": "Kurisi bali",
+    "338": "Rangginan blackspot",
+    "339": "Swangi batu",
+    "340": "Kuwe pectoral",
+    "341": "Kuwe abu-abu sirip gelap",
+    "342": "Betok blunt snout gregory",
+    "343": "Jenggot kuning",
+    "344": "Selar mulut putih",
+    "345": "Kerapu sunu ekor gunting",
+    "346": "Kerapu cabang",
+    "347": "Ayam-ayam striped",
+    "348": "Kerapu",
+    "349": "Lodem",
+    "350": "Kerapu merah",
+    "351": "Kerapu jenang",
+    "352": "Kepe-kepe speckled",
+    "353": "Botana striatus mata biru",
+    "354": "Kerapu kuning",
+    "355": "Wrasse slingjaw",
+    "356": "Kerapu balong",
+    "357": "Jabingan kepala besar",
+    "358": "Lencang kuning",
+    "359": "Kakap yellowback",
+    "360": "Kakap kuning hindia",
+    "361": "Jenggot strip kuning",
+    "362": "Kumai putih",
+    "363": "Kumai barred",
+    "364": "Gobi triplesppot",
+    "365": "Jenggot goldsaddle",
+    "366": "Kerapu blackside",
+    "367": "Jenggot multibar",
+    "368": "Sliding",
+    "369": "Kerapu asli",
+    "370": "Bluestone biasa",
+    "371": "Ayam-ayam yellow-spotted",
+    "372": "Ayam-ayam tompel",
+    "373": "Baronang manggilala",
+    "374": "Baronang foxface",
+    "375": "Ayam-ayam boomerang",
+    "376": "Kakap layar",
+    "377": "Ayam ceplok",
+    "378": "Nuri-nuri",
+    "379": "Nike",
+    "380": "Abat",
+    "381": "Buntal babi strip",
+    "382": "Kuwe moncong tumpul bulat",
+    "383": "Kuwe papua",
+    "384": "Kerapu bintik biru",
+    "385": "Kerapu stroberi",
+    "386": "Betok putih",
+    "387": "Gandu",
+    "388": "Kerapu lumpur/api coklat/strip 7",
+    "389": "Kerapu ekor putih",
+    "390": "Kerapu bintik putih",
+    "391": "Kerapu belosoh",
+    "392": "Kerapu malabar",
+    "393": "Badur kuning",
+    "394": "Asuan",
+    "395": "Kakap tambak",
+    "396": "Tambangan",
+    "397": "Jambian",
+    "398": "Kelalah",
+    "399": "Badur",
+    "400": "Gorara",
+    "401": "Kakap malam",
+    "402": "Kakap hitam",
+    "403": "Selar kokok",
+    "404": "Kumai ekor putih",
+    "405": "Kumai",
+    "406": "Lombok swallowtail",
+    "407": "Ambangan merah",
+    "408": "Bijinangka karang",
+    "409": "Bawal hitam",
+    "410": "Betok smoky",
+    "411": "Betok threespot",
+    "412": "Cobia",
+    "413": "Lepu papua",
+    "414": "Selar kuning",
+    "415": "Baji-baji sebra",
+    "416": "Baronang kunyit",
+    "417": "Kerapu karet merah",
+    "418": "Kerapu sendok",
+    "419": "Kakap gajah",
+    "420": "Kumai bali",
+    "421": "Kambing-kambing yellowmargin",
+    "422": "Baronang batik",
+    "423": "Baronang kalung",
+    "424": "Cupang siamese fighter",
+    "425": "Gabus kaisar",
+    "426": "Tontong tebu",
+    "427": "Kepala timah",
+    "428": "Depik",
+    "429": "Bawal air tawar",
+    "430": "Bilis",
+    "431": "Rejung",
+    "432": "Sumpit",
+    "433": "Pesut mahakam",
+    "434": "Sidat jenggot kambing",
+    "435": "Bandeng",
+    "436": "Belanak sipit",
+    "437": "Belanak",
+    "438": "Belanak squaretail",
+    "439": "Udang krosok merah",
+    "440": "Udang dogol",
+    "441": "Udang brintik",
+    "442": "Lobster pasir",
+    "443": "Lobster mutiara",
+    "444": "Lobster batu",
+    "445": "Lobster pakistan",
+    "446": "Udang batu",
+    "447": "Udang witch",
+    "448": "Udang kuruma",
+    "449": "Udang redspot king",
+    "450": "Udang aloha",
+    "451": "Lobster kipas",
+    "452": "Udang orange",
+    "453": "Udang mantis",
+    "454": "Udang cendana",
+    "455": "Udang api-api",
+    "456": "Rajungan angin",
+    "457": "Kepiting bakau jingga",
+    "458": "Kepiting bakau hijau",
+    "459": "Kepiting bakau besar",
+    "460": "Kepiting bakau ungu",
+    "461": "Udang vaname",
+    "462": "Rajungan",
+    "463": "Sotong",
+    "464": "Cumi-cumi",
+    "465": "Simping",
+    "466": "Tiram",
+    "467": "Gurita",
+    "468": "Kerang tahu",
+    "469": "Remis hijau",
+    "470": "Teripang susuan hitam",
+    "471": "Teripang putih",
+    "472": "Teripang batu",
+    "473": "Teripang bilalo",
+    "474": "Teripang bintik",
+    "475": "Teripang getah putih",
+    "476": "Bulu babi",
+    "477": "Teripang sabuk raja",
+    "478": "Teripang keling",
+    "479": "Teripang susuan putih",
+    "480": "Teripang karang",
+    "481": "Teripang hitam",
+    "482": "Teripang oler",
+    "483": "Teripang kasur",
+    "484": "Teripang kacang",
+    "485": "Teripang",
+    "486": "Teripang nanas",
+    "487": "Paus kepala semangka",
+    "488": "Paus minke",
+    "489": "Paus sei",
+    "490": "Paus bryde",
+    "491": "Paus biru",
+    "492": "Paus sirip",
+    "493": "Lumba-lumba moncong panjang",
+    "494": "Lumba-lumba biasa",
+    "495": "Paus pembunuh kerdil",
+    "496": "Paus pemandu sirip pendek",
+    "497": "Lumba-lumba abu-abu",
+    "498": "Paus sperma kogia",
+    "499": "Lumba-lumba fraser",
+    "500": "Paus bungkuk",
+    "501": "Lumba-lumba tak bersirip",
+    "502": "Paus pembunuh",
+    "503": "Paus sperma",
+    "504": "Paus pembunuh palsu",
+    "505": "Lumba-lumba totol",
+    "506": "Lumba-lumba gigi kasar",
+    "507": "Lumba-lumba bergaris",
+    "508": "Lumba-lumba paruh panjang",
+    "509": "Lumba-lumba hidung botol",
+    "510": "Paus paruh curvier",
+    "511": "Lumba-lumba putih",
+    "512": "Belut moray"
+  },
+  "per_label_counts": {
+    "0": {
+      "label": "Hiu tikus",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "1": {
+      "label": "Hiu sutra",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "2": {
+      "label": "Hiu sirip putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "3": {
+      "label": "Hiu kepala martil bergerigi",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "4": {
+      "label": "Wahoo",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "5": {
+      "label": "Hiu tokek",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "6": {
+      "label": "Tongkol lisong",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "7": {
+      "label": "Tongkol krai",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "8": {
+      "label": "Hiu sonteng",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "9": {
+      "label": "Hiu lanjaman",
+      "train": 6,
+      "val": 1,
+      "is_new": true
+    },
+    "10": {
+      "label": "Hiu tembaga",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "11": {
+      "label": "Cucut lanjam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "12": {
+      "label": "Hiu banteng",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "13": {
+      "label": "Hiu sirip hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "14": {
+      "label": "Hiu karang sirip hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "15": {
+      "label": "Hiu teteri",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "16": {
+      "label": "Hiu merak bulu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "17": {
+      "label": "Hiu botol longnose velvet dogfish",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "18": {
+      "label": "Hiu botol danten",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "19": {
+      "label": "Hiu botol leafscale gulper shark",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "20": {
+      "label": "Hiu bongol",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "21": {
+      "label": "Lemadang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "22": {
+      "label": "Tongkol komo",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "23": {
+      "label": "Hiu macan",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "24": {
+      "label": "Makerel ular",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "25": {
+      "label": "Tuna gigi anjing",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "26": {
+      "label": "Hiu lepang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "27": {
+      "label": "Hiu kacang",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "28": {
+      "label": "Hiu kapukan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "29": {
+      "label": "Layaran",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "30": {
+      "label": "Hiu mako",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "31": {
+      "label": "Hiu mako sirip panjang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "32": {
+      "label": "Cakalang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "33": {
+      "label": "Opah",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "34": {
+      "label": "Setuhuk biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "35": {
+      "label": "Hiu mulut raksasa",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "36": {
+      "label": "Hiu bisu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "37": {
+      "label": "Hiu berbintik",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "38": {
+      "label": "Hiu biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "39": {
+      "label": "Hiu buaya",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "40": {
+      "label": "Hiu pilus",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "41": {
+      "label": "Kenyar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "42": {
+      "label": "Slengseng",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "43": {
+      "label": "Tenggiri",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "44": {
+      "label": "Talang-talang",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "45": {
+      "label": "Tenggiri papan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "46": {
+      "label": "Hiu kejen",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "47": {
+      "label": "Tenggiri garis",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "48": {
+      "label": "Hiu taji",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "49": {
+      "label": "Hiu cucut botol",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "50": {
+      "label": "Todak",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "51": {
+      "label": "Albakora",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "52": {
+      "label": "Tuna sirip kuning",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "53": {
+      "label": "Terbang",
+      "train": 20,
+      "val": 4,
+      "is_new": true
+    },
+    "54": {
+      "label": "Tuna sirip biru selatan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "55": {
+      "label": "Tuna mata besar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "56": {
+      "label": "Tongkol abu-abu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "57": {
+      "label": "Hiu tanduk putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "58": {
+      "label": "Ikan pedang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "60": {
+      "label": "Gindara",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "61": {
+      "label": "Tanda-tanda/ badur kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "62": {
+      "label": "Buntet",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "63": {
+      "label": "Marlin loreng",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "64": {
+      "label": "Siro",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "65": {
+      "label": "Selanget",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "66": {
+      "label": "Cipa-cipa",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "67": {
+      "label": "Selar hijau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "68": {
+      "label": "Bawal pomfret",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "69": {
+      "label": "Killi mata belo",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "70": {
+      "label": "Layang anggur",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "71": {
+      "label": "Layang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "72": {
+      "label": "Teri merah",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "73": {
+      "label": "Senangin",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "74": {
+      "label": "Teri nasi",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "75": {
+      "label": "Tongkol hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "76": {
+      "label": "Julung-julung",
+      "train": 6,
+      "val": 1,
+      "is_new": true
+    },
+    "77": {
+      "label": "Sarden",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "78": {
+      "label": "Teri samoan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "79": {
+      "label": "Lemah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "80": {
+      "label": "Ikan setan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "81": {
+      "label": "Bambangan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "82": {
+      "label": "Kakap bakau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "83": {
+      "label": "Terbang sirip layar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "84": {
+      "label": "Sebelah mata kanan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "85": {
+      "label": "Sebelah mata kiri",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "86": {
+      "label": "Silver driftfish",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "87": {
+      "label": "Kembung perempuan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "88": {
+      "label": "Tembang",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "89": {
+      "label": "Teri hairfin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "90": {
+      "label": "Teri ambon",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "91": {
+      "label": "Teri indian",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "92": {
+      "label": "Teri gepeng",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "93": {
+      "label": "Terubuk",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "94": {
+      "label": "Teri daun bambu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "95": {
+      "label": "Ambangan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "96": {
+      "label": "Kemprit",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "97": {
+      "label": "Kakap sunrise perch",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "98": {
+      "label": "Tanda-tanda batu/badur batu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "99": {
+      "label": "Baronang",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "100": {
+      "label": "Ikan naga",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "101": {
+      "label": "Cendro",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "102": {
+      "label": "Selar bulat",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "103": {
+      "label": "Selar ubur-ubur",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "104": {
+      "label": "Selar kue",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "105": {
+      "label": "Layang lidi",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "106": {
+      "label": "Layang biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "107": {
+      "label": "Layang benggol",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "108": {
+      "label": "Salem",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "109": {
+      "label": "Ande ande",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "110": {
+      "label": "Julung-julung mulut merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "111": {
+      "label": "Kakap batu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "112": {
+      "label": "Kakap merah bakau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "113": {
+      "label": "Bulan-bulan",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "114": {
+      "label": "Kembung lelaki",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "115": {
+      "label": "Lemuru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "116": {
+      "label": "Hiu gergaji",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "117": {
+      "label": "Talang-talang totol",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "118": {
+      "label": "Selar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "119": {
+      "label": "Selar bentong",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "120": {
+      "label": "Baronang susu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "121": {
+      "label": "Baronang tompel",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "122": {
+      "label": "Baronang angin",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "123": {
+      "label": "Sangko",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "124": {
+      "label": "Bangkok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "125": {
+      "label": "Kambing-kambing",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "126": {
+      "label": "Pari burung",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "127": {
+      "label": "Gulamah",
+      "train": 13,
+      "val": 3,
+      "is_new": true
+    },
+    "128": {
+      "label": "Gumalah",
+      "train": 5,
+      "val": 1,
+      "is_new": true
+    },
+    "129": {
+      "label": "Hiu aron",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "130": {
+      "label": "Galuh putih",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "131": {
+      "label": "Galuh indian",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "132": {
+      "label": "Mata besar",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "133": {
+      "label": "Sebelah bundar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "134": {
+      "label": "Kuwe",
+      "train": 10,
+      "val": 2,
+      "is_new": true
+    },
+    "135": {
+      "label": "Golok-golok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "136": {
+      "label": "Bayeman anchor",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "137": {
+      "label": "Bayeman blackspot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "138": {
+      "label": "Belayaran",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "139": {
+      "label": "Galuh",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "140": {
+      "label": "Galuh setan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "141": {
+      "label": "Lidah lumpur",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "142": {
+      "label": "Sebelah",
+      "train": 16,
+      "val": 4,
+      "is_new": true
+    },
+    "143": {
+      "label": "Gurnard starry flying",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "144": {
+      "label": "Pare kembang",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "145": {
+      "label": "Pari lemer",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "146": {
+      "label": "Gajih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "147": {
+      "label": "Tempel",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "148": {
+      "label": "Petek",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "149": {
+      "label": "Anggoli",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "150": {
+      "label": "Petek jones",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "151": {
+      "label": "Bawal laut dalam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "152": {
+      "label": "Senangin splendid",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "153": {
+      "label": "Senangin yellowthread",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "154": {
+      "label": "Peperek bondolan",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "155": {
+      "label": "Kapas-kapas",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "156": {
+      "label": "Kumeje batu yellowsnout large-eye",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "157": {
+      "label": "Pari kelelawar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "158": {
+      "label": "Kumeje batu blue-spotted large-eye",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "159": {
+      "label": "Hiu aeuy",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "160": {
+      "label": "Flathead",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "161": {
+      "label": "Pelo",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "162": {
+      "label": "Layur",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "163": {
+      "label": "Lencam emperor",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "164": {
+      "label": "Emperor pinkear",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "165": {
+      "label": "Kakap merah/kakap bongkok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "166": {
+      "label": "Kakap moluccan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "167": {
+      "label": "Jarang koto/kuniran",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "168": {
+      "label": "Pilok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "169": {
+      "label": "Lepu karang",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "170": {
+      "label": "Rangginan doubletooth",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "171": {
+      "label": "Kurisi balinese threadfin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "172": {
+      "label": "Kurisi japanese threadfin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "173": {
+      "label": "Kurisi",
+      "train": 5,
+      "val": 1,
+      "is_new": true
+    },
+    "174": {
+      "label": "Kurisi yellow-tipped threadfin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "175": {
+      "label": "Galuh botol biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "176": {
+      "label": "Gelik",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "177": {
+      "label": "Gobi scalynape tentacle",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "178": {
+      "label": "Bawal putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "179": {
+      "label": "Biji nangka karang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "180": {
+      "label": "Tongtong",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "181": {
+      "label": "Gobi taileye",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "182": {
+      "label": "Pari kelapa",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "183": {
+      "label": "Kaci-kaci raja bau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "184": {
+      "label": "Kerisi",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "185": {
+      "label": "Kaci-kaci",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "186": {
+      "label": "Kaci-kaci hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "187": {
+      "label": "Rajanau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "188": {
+      "label": "Lele laut",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "189": {
+      "label": "Gerot-gerot",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "190": {
+      "label": "Lepu ruddy",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "191": {
+      "label": "Kurisi ungu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "192": {
+      "label": "Swanggi",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "193": {
+      "label": "Serinding tembakau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "194": {
+      "label": "Pari gergaji",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "195": {
+      "label": "Galuh dusky",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "196": {
+      "label": "Galuh freckled",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "197": {
+      "label": "Mata sebelah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "198": {
+      "label": "Terabis bulat",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "199": {
+      "label": "Remora",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "200": {
+      "label": "Pari kekeh",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "201": {
+      "label": "Aesi",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "202": {
+      "label": "Beloso",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "203": {
+      "label": "Lepu batu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "204": {
+      "label": "Lepu angin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "205": {
+      "label": "Lepu poss's",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "206": {
+      "label": "Lidah ovate",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "207": {
+      "label": "Alu-alu",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "208": {
+      "label": "Barakuda",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "209": {
+      "label": "Kakap china",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "210": {
+      "label": "Pari totol biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "211": {
+      "label": "Bawal lonjong",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "212": {
+      "label": "Bawal sabit",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "213": {
+      "label": "Penginang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "214": {
+      "label": "Ayam-ayam manyspot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "215": {
+      "label": "Sokang",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "216": {
+      "label": "Cupang-cupang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "217": {
+      "label": "Jenggot",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "218": {
+      "label": "Kuniran empat strip",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "219": {
+      "label": "Biji nangka",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "220": {
+      "label": "Lepo merah",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "221": {
+      "label": "Lidah zebra",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "222": {
+      "label": "Layur merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "223": {
+      "label": "Japanese rubyfish",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "224": {
+      "label": "Ekor kuning",
+      "train": 17,
+      "val": 4,
+      "is_new": true
+    },
+    "225": {
+      "label": "Kerong-kerong",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "226": {
+      "label": "Kuniran",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "227": {
+      "label": "Gobi isthmus",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "228": {
+      "label": "Teri merek",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "229": {
+      "label": "Petek striped",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "230": {
+      "label": "Buntal compressed",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "231": {
+      "label": "Ketang-ketang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "232": {
+      "label": "Petek papua",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "233": {
+      "label": "Petek splendid",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "234": {
+      "label": "Petek ovoid",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "235": {
+      "label": "Acang-acang bombay",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "236": {
+      "label": "Pari duri",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "237": {
+      "label": "Buntal half-smooth golden",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "238": {
+      "label": "Kakap putih",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "239": {
+      "label": "Petek berber",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "240": {
+      "label": "Peperek topang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "241": {
+      "label": "Kakap mailah/ketambak",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "242": {
+      "label": "Bambangan/kakap merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "243": {
+      "label": "Pucuk nipah",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "244": {
+      "label": "Kurisi fivelined threadfin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "245": {
+      "label": "Lepu orange-banded",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "246": {
+      "label": "Manyung roundsnot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "247": {
+      "label": "Manyung besar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "248": {
+      "label": "Patin longsnouted",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "249": {
+      "label": "Manyung hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "250": {
+      "label": "Manyung utik",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "251": {
+      "label": "Gobi sleepy",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "252": {
+      "label": "Pasir-pasir",
+      "train": 6,
+      "val": 1,
+      "is_new": true
+    },
+    "253": {
+      "label": "Lepu barong",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "254": {
+      "label": "Petek pugnose",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "255": {
+      "label": "Kerong-kerong padi",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "256": {
+      "label": "Kuwe bintik",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "257": {
+      "label": "Moa",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "258": {
+      "label": "Kalong",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "259": {
+      "label": "Katombal",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "260": {
+      "label": "Kumeje batu yellowband monocle",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "261": {
+      "label": "Kakap laut merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "262": {
+      "label": "Basslet pearl-spotted fairy",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "263": {
+      "label": "Buntal karang",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "264": {
+      "label": "Lembain",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "265": {
+      "label": "Napoleon maori",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "266": {
+      "label": "Angel imperator",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "267": {
+      "label": "Napoleon",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "268": {
+      "label": "Butana",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "269": {
+      "label": "Kerapu lumpur hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "270": {
+      "label": "Kuwe rambut",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "271": {
+      "label": "Ayam-ayam unicorn",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "272": {
+      "label": "Betok batunas",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "273": {
+      "label": "Kerapu totol merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "274": {
+      "label": "Kurisi perak",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "275": {
+      "label": "Guntur",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "276": {
+      "label": "Antoan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "277": {
+      "label": "Ayam-ayam rough",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "278": {
+      "label": "Ayam-ayam wirenet",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "279": {
+      "label": "Kuwe mata besar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "280": {
+      "label": "Kuwe sirip kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "281": {
+      "label": "Kuwe macan",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "282": {
+      "label": "Kuwe lilin",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "283": {
+      "label": "Kuwe caudal hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "284": {
+      "label": "Kuwe bibir tebal",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "285": {
+      "label": "Kuwe pectoralf sabit",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "286": {
+      "label": "Selar malam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "287": {
+      "label": "Kuwe kaudal hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "288": {
+      "label": "Kerapu batu",
+      "train": 5,
+      "val": 1,
+      "is_new": true
+    },
+    "289": {
+      "label": "Kerapu golden",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "290": {
+      "label": "Kerapu hitam strip biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "291": {
+      "label": "Kerapu macan",
+      "train": 6,
+      "val": 1,
+      "is_new": true
+    },
+    "292": {
+      "label": "Kerapu harlequin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "293": {
+      "label": "Kerapu merah palsu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "294": {
+      "label": "Kerapu tomat",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "295": {
+      "label": "Kakatua",
+      "train": 19,
+      "val": 4,
+      "is_new": true
+    },
+    "296": {
+      "label": "Mamar",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "297": {
+      "label": "Betok putih strip",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "298": {
+      "label": "Kerapu karet",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "299": {
+      "label": "Kerapu lumpur",
+      "train": 5,
+      "val": 1,
+      "is_new": true
+    },
+    "300": {
+      "label": "Kerapu snubnose",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "301": {
+      "label": "Kerapu minyak",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "302": {
+      "label": "Kerapu koral",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "303": {
+      "label": "Krapu abu-abu noda putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "304": {
+      "label": "Kerapu batik",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "305": {
+      "label": "Kerapu tutul",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "306": {
+      "label": "Kerapu harimau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "307": {
+      "label": "Kerapu barong putih",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "308": {
+      "label": "Kerapu totol",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "309": {
+      "label": "Kerapu sunu",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "310": {
+      "label": "Mala",
+      "train": 10,
+      "val": 2,
+      "is_new": true
+    },
+    "311": {
+      "label": "Kakap ilak",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "312": {
+      "label": "Buntal",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "313": {
+      "label": "Matahari",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "314": {
+      "label": "Betok laut",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "315": {
+      "label": "Kakap ekor kuning",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "316": {
+      "label": "Kakap jarang gigi",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "317": {
+      "label": "Kakap indian",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "318": {
+      "label": "Kakap papua",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "319": {
+      "label": "Gaga",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "320": {
+      "label": "Ayam-ayam fanbelly",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "321": {
+      "label": "Jenggot merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "322": {
+      "label": "Botana",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "323": {
+      "label": "Selar pilot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "324": {
+      "label": "Jenggot doublebar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "325": {
+      "label": "Ayam-ayam hairfin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "326": {
+      "label": "Paralolosi",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "327": {
+      "label": "Kepe-kepe",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "328": {
+      "label": "Jangki",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "329": {
+      "label": "Kumeje batu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "330": {
+      "label": "Pinjalo",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "331": {
+      "label": "Kerapu sunu bintik kasar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "332": {
+      "label": "Kerapu raja sunu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "333": {
+      "label": "Ayam-ayam pot-bellied",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "334": {
+      "label": "Kerapu ladah",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "335": {
+      "label": "Kapasan ekor kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "336": {
+      "label": "Kakap anggoli",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "337": {
+      "label": "Kurisi bali",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "338": {
+      "label": "Rangginan blackspot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "339": {
+      "label": "Swangi batu",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "340": {
+      "label": "Kuwe pectoral",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "341": {
+      "label": "Kuwe abu-abu sirip gelap",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "342": {
+      "label": "Betok blunt snout gregory",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "343": {
+      "label": "Jenggot kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "344": {
+      "label": "Selar mulut putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "345": {
+      "label": "Kerapu sunu ekor gunting",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "346": {
+      "label": "Kerapu cabang",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "347": {
+      "label": "Ayam-ayam striped",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "348": {
+      "label": "Kerapu",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "349": {
+      "label": "Lodem",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "350": {
+      "label": "Kerapu merah",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "351": {
+      "label": "Kerapu jenang",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "352": {
+      "label": "Kepe-kepe speckled",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "353": {
+      "label": "Botana striatus mata biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "354": {
+      "label": "Kerapu kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "355": {
+      "label": "Wrasse slingjaw",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "356": {
+      "label": "Kerapu balong",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "357": {
+      "label": "Jabingan kepala besar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "358": {
+      "label": "Lencang kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "359": {
+      "label": "Kakap yellowback",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "360": {
+      "label": "Kakap kuning hindia",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "361": {
+      "label": "Jenggot strip kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "362": {
+      "label": "Kumai putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "363": {
+      "label": "Kumai barred",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "364": {
+      "label": "Gobi triplesppot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "365": {
+      "label": "Jenggot goldsaddle",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "366": {
+      "label": "Kerapu blackside",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "367": {
+      "label": "Jenggot multibar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "368": {
+      "label": "Sliding",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "369": {
+      "label": "Kerapu asli",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "370": {
+      "label": "Bluestone biasa",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "371": {
+      "label": "Ayam-ayam yellow-spotted",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "372": {
+      "label": "Ayam-ayam tompel",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "373": {
+      "label": "Baronang manggilala",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "374": {
+      "label": "Baronang foxface",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "375": {
+      "label": "Ayam-ayam boomerang",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "376": {
+      "label": "Kakap layar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "377": {
+      "label": "Ayam ceplok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "378": {
+      "label": "Nuri-nuri",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "379": {
+      "label": "Nike",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "380": {
+      "label": "Abat",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "381": {
+      "label": "Buntal babi strip",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "382": {
+      "label": "Kuwe moncong tumpul bulat",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "383": {
+      "label": "Kuwe papua",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "384": {
+      "label": "Kerapu bintik biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "385": {
+      "label": "Kerapu stroberi",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "386": {
+      "label": "Betok putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "387": {
+      "label": "Gandu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "388": {
+      "label": "Kerapu lumpur/api coklat/strip 7",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "389": {
+      "label": "Kerapu ekor putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "390": {
+      "label": "Kerapu bintik putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "391": {
+      "label": "Kerapu belosoh",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "392": {
+      "label": "Kerapu malabar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "393": {
+      "label": "Badur kuning",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "394": {
+      "label": "Asuan",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "395": {
+      "label": "Kakap tambak",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "396": {
+      "label": "Tambangan",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "397": {
+      "label": "Jambian",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "398": {
+      "label": "Kelalah",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "399": {
+      "label": "Badur",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "400": {
+      "label": "Gorara",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "401": {
+      "label": "Kakap malam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "402": {
+      "label": "Kakap hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "403": {
+      "label": "Selar kokok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "404": {
+      "label": "Kumai ekor putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "405": {
+      "label": "Kumai",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "406": {
+      "label": "Lombok swallowtail",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "407": {
+      "label": "Ambangan merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "408": {
+      "label": "Bijinangka karang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "409": {
+      "label": "Bawal hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "410": {
+      "label": "Betok smoky",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "411": {
+      "label": "Betok threespot",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "412": {
+      "label": "Cobia",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "413": {
+      "label": "Lepu papua",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "414": {
+      "label": "Selar kuning",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "415": {
+      "label": "Baji-baji sebra",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "416": {
+      "label": "Baronang kunyit",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "417": {
+      "label": "Kerapu karet merah",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "418": {
+      "label": "Kerapu sendok",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "419": {
+      "label": "Kakap gajah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "420": {
+      "label": "Kumai bali",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "421": {
+      "label": "Kambing-kambing yellowmargin",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "422": {
+      "label": "Baronang batik",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "423": {
+      "label": "Baronang kalung",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "424": {
+      "label": "Cupang siamese fighter",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "425": {
+      "label": "Gabus kaisar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "426": {
+      "label": "Tontong tebu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "427": {
+      "label": "Kepala timah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "428": {
+      "label": "Depik",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "429": {
+      "label": "Bawal air tawar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "430": {
+      "label": "Bilis",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "431": {
+      "label": "Rejung",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "432": {
+      "label": "Sumpit",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "433": {
+      "label": "Pesut mahakam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "434": {
+      "label": "Sidat jenggot kambing",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "435": {
+      "label": "Bandeng",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "436": {
+      "label": "Belanak sipit",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "437": {
+      "label": "Belanak",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "438": {
+      "label": "Belanak squaretail",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "439": {
+      "label": "Udang krosok merah",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "440": {
+      "label": "Udang dogol",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "441": {
+      "label": "Udang brintik",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "442": {
+      "label": "Lobster pasir",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "443": {
+      "label": "Lobster mutiara",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "444": {
+      "label": "Lobster batu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "445": {
+      "label": "Lobster pakistan",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "446": {
+      "label": "Udang batu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "447": {
+      "label": "Udang witch",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "448": {
+      "label": "Udang kuruma",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "449": {
+      "label": "Udang redspot king",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "450": {
+      "label": "Udang aloha",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "451": {
+      "label": "Lobster kipas",
+      "train": 4,
+      "val": 1,
+      "is_new": true
+    },
+    "452": {
+      "label": "Udang orange",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "453": {
+      "label": "Udang mantis",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "454": {
+      "label": "Udang cendana",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "455": {
+      "label": "Udang api-api",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "456": {
+      "label": "Rajungan angin",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "457": {
+      "label": "Kepiting bakau jingga",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "458": {
+      "label": "Kepiting bakau hijau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "459": {
+      "label": "Kepiting bakau besar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "460": {
+      "label": "Kepiting bakau ungu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "461": {
+      "label": "Udang vaname",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "462": {
+      "label": "Rajungan",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "463": {
+      "label": "Sotong",
+      "train": 6,
+      "val": 1,
+      "is_new": true
+    },
+    "464": {
+      "label": "Cumi-cumi",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "465": {
+      "label": "Simping",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "466": {
+      "label": "Tiram",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "467": {
+      "label": "Gurita",
+      "train": 3,
+      "val": 1,
+      "is_new": true
+    },
+    "468": {
+      "label": "Kerang tahu",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "469": {
+      "label": "Remis hijau",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "470": {
+      "label": "Teripang susuan hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "471": {
+      "label": "Teripang putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "472": {
+      "label": "Teripang batu",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "473": {
+      "label": "Teripang bilalo",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "474": {
+      "label": "Teripang bintik",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "475": {
+      "label": "Teripang getah putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "476": {
+      "label": "Bulu babi",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "477": {
+      "label": "Teripang sabuk raja",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "478": {
+      "label": "Teripang keling",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "479": {
+      "label": "Teripang susuan putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "480": {
+      "label": "Teripang karang",
+      "train": 2,
+      "val": 1,
+      "is_new": true
+    },
+    "481": {
+      "label": "Teripang hitam",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "482": {
+      "label": "Teripang oler",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "483": {
+      "label": "Teripang kasur",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "484": {
+      "label": "Teripang kacang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "485": {
+      "label": "Teripang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "486": {
+      "label": "Teripang nanas",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "487": {
+      "label": "Paus kepala semangka",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "488": {
+      "label": "Paus minke",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "489": {
+      "label": "Paus sei",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "490": {
+      "label": "Paus bryde",
+      "train": 1,
+      "val": 1,
+      "is_new": true
+    },
+    "491": {
+      "label": "Paus biru",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "492": {
+      "label": "Paus sirip",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "493": {
+      "label": "Lumba-lumba moncong panjang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "494": {
+      "label": "Lumba-lumba biasa",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "495": {
+      "label": "Paus pembunuh kerdil",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "496": {
+      "label": "Paus pemandu sirip pendek",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "497": {
+      "label": "Lumba-lumba abu-abu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "498": {
+      "label": "Paus sperma kogia",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "499": {
+      "label": "Lumba-lumba fraser",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "500": {
+      "label": "Paus bungkuk",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "501": {
+      "label": "Lumba-lumba tak bersirip",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "502": {
+      "label": "Paus pembunuh",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "503": {
+      "label": "Paus sperma",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "504": {
+      "label": "Paus pembunuh palsu",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "505": {
+      "label": "Lumba-lumba totol",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "506": {
+      "label": "Lumba-lumba gigi kasar",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "507": {
+      "label": "Lumba-lumba bergaris",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "508": {
+      "label": "Lumba-lumba paruh panjang",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "509": {
+      "label": "Lumba-lumba hidung botol",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "510": {
+      "label": "Paus paruh curvier",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "511": {
+      "label": "Lumba-lumba putih",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    },
+    "512": {
+      "label": "Belut moray",
+      "train": 1,
+      "val": 0,
+      "is_new": true
+    }
+  }
+}

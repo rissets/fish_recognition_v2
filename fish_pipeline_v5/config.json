@@ -1,0 +1,19 @@
+{
+  "preprocessing": {
+    "target_size": 512,
+    "strategies_count": 10,
+    "output_quality": 95
+  },
+  "training": {
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "epochs": 10,
+    "val_split": 0.2,
+    "test_split": 0.2
+  },
+  "paths": {
+    "dataset": "../dataset/ikan_db_v1",
+    "output": "output",
+    "models": "../models"
+  }
+}

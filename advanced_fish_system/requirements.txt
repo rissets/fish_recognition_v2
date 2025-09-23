@@ -1,0 +1,24 @@
+# Advanced Fish Recognition System Requirements
+
+# Core dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+numpy>=1.20.0
+
+# Standard library enhancements (usually included with Python)
+pathlib2>=2.3.0; python_version<"3.4"
+
+# Optional dependencies for enhanced functionality
+matplotlib>=3.3.0  # For visualization if needed
+scikit-learn>=0.24.0  # For additional ML utilities if needed
+tqdm>=4.60.0  # For progress bars in batch processing
+
+# Development and testing (optional)
+pytest>=6.0.0  # For running tests
+black>=21.0.0  # For code formatting
+flake8>=3.8.0  # For linting
+
+# Note: These are the minimum required versions
+# The system may work with earlier versions but has been tested with these

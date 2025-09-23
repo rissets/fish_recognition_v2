@@ -1,0 +1,7 @@
+torch
+opencv-python
+albumentations
+scikit-learn
+ultralytics
+matplotlib
+seaborn

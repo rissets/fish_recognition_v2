@@ -1,0 +1,79 @@
+{
+  "original_image": "../images/bandeng.jpg",
+  "total_processed": 10,
+  "classifications": {
+    "original_enhanced": {
+      "confidence": 1.0,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_01_original_enhanced.jpg"
+    },
+    "bright_contrast": {
+      "confidence": 0.5333333333333333,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_02_bright_contrast.jpg"
+    },
+    "sharp_saturation": {
+      "confidence": 1.0,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_03_sharp_saturation.jpg"
+    },
+    "clahe_gamma": {
+      "confidence": 0.8666666666666667,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_04_clahe_gamma.jpg"
+    },
+    "histogram_eq": {
+      "confidence": 0.5333333333333333,
+      "species": "Ikan Whitefish Danau",
+      "species_id": 93,
+      "processed_image": "output/quality_test/bandeng_05_histogram_eq.jpg"
+    },
+    "blur_denoise": {
+      "confidence": 1.0,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_06_blur_denoise.jpg"
+    },
+    "edge_enhance": {
+      "confidence": 0.4666666666666667,
+      "species": "Ikan Whitefish Danau",
+      "species_id": 93,
+      "processed_image": "output/quality_test/bandeng_07_edge_enhance.jpg"
+    },
+    "color_balance": {
+      "confidence": 1.0,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_08_color_balance.jpg"
+    },
+    "lighting_fix": {
+      "confidence": 1.0,
+      "species": "Ikan Gizzard Shad",
+      "species_id": 115,
+      "processed_image": "output/quality_test/bandeng_09_lighting_fix.jpg"
+    },
+    "detail_enhance": {
+      "confidence": 0.6666666666666666,
+      "species": "Ikan Whitefish Danau",
+      "species_id": 93,
+      "processed_image": "output/quality_test/bandeng_10_detail_enhance.jpg"
+    }
+  },
+  "analysis": {
+    "average_confidence": 0.8066666666666666,
+    "max_confidence": 1.0,
+    "min_confidence": 0.4666666666666667,
+    "consistency_ratio": 0.7,
+    "most_predicted_species": "Ikan Gizzard Shad",
+    "species_distribution": {
+      "Ikan Gizzard Shad": 7,
+      "Ikan Whitefish Danau": 3
+    },
+    "processing_strategies_tested": 10,
+    "quality_score": 0.7533333333333333
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Contoh konfigurasi untuk menambahkan multiple species sekaligus",
+  "species": [
+    {
+      "name": "Mujair",
+      "path": "dataset/ikan_db_v1/images/mujair"
+    },
+    {
+      "name": "Bandeng",
+      "path": "dataset/ikan_db_v1/images/bandeng"
+    },
+    {
+      "name": "Baronang",
+      "path": "dataset/ikan_db_v1/images/baronang"
+    },
+    {
+      "name": "Bawal Putih",
+      "path": "dataset/ikan_db_v1/images/bawal-putih"
+    },
+    {
+      "name": "Cakalang",
+      "path": "dataset/ikan_db_v1/images/cakalang"
+    }
+  ],
+  "settings": {
+    "backup_before_processing": true,
+    "validate_images": true,
+    "max_embeddings_per_species": 100
+  }
+}
